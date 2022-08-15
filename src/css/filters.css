@@ -1,0 +1,45 @@
+.filters h4 {
+  margin-top: 30px;
+}
+
+.filters .searchbox {
+  background: url(../images/search-icon.png) no-repeat right 15px center;
+  height: 56px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 125%;
+  letter-spacing: 0.005em;
+  font-family: 'DM Sans Regular', sans-serif, Arial;
+  color: #9A9AB0;
+  border: 1px solid #11142D;
+  border-radius: 4px;
+  padding: 15px 45px 15px 24px;
+}
+
+
+.filters button {
+  display: block;
+  width: 100%;
+  background: transparent;
+  border: 0;
+  outline: 0;
+  text-align: left;
+  padding: 10px 30px 10px 0;
+  text-transform: capitalize;
+  background: url(../images/arrow-right.png) no-repeat right 15px center;
+}
+
+.filters select.form-control {
+  height: 56px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 125%;
+  letter-spacing: 0.005em;
+  font-family: 'DM Sans Regular', sans-serif, Arial;
+  color: #9A9AB0;
+  border: 1px solid #11142D;
+  border-radius: 4px;
+  padding: 15px 45px 15px 24px;
+}
